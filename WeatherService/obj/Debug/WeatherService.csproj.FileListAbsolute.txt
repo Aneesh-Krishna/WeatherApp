@@ -1,0 +1,13 @@
+C:\Users\aneea\source\repos\WeatherService\WeatherService\bin\Debug\WeatherService.exe.config
+C:\Users\aneea\source\repos\WeatherService\WeatherService\bin\Debug\WeatherService.exe
+C:\Users\aneea\source\repos\WeatherService\WeatherService\bin\Debug\WeatherService.pdb
+C:\Users\aneea\source\repos\WeatherService\WeatherService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aneea\source\repos\WeatherService\WeatherService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.AssemblyReference.cache
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherService.Form1.resources
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherService.Properties.Resources.resources
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.GenerateResource.cache
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherS.CB217A36.Up2Date
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherService.exe
+C:\Users\aneea\source\repos\WeatherService\WeatherService\obj\Debug\WeatherService.pdb
